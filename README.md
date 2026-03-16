@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1E90FF" alt="Profile Views"/>  
+  <img src="https://komarev.com/ghpvc/?username=fadyadell&style=for-the-badge&color=1E90FF" alt="Profile Views"/>  
 </div>
 
 <h2 align="center">  
