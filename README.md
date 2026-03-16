@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Fady%20Adel&fontSize=55&fontAlign=50&fontAlignY=50&color=0:0D1117,100:1E90FF&desc=%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlign=50&descAlignY=70&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Fady%20Adel&fontSize=55&fontAlign=50&fontAlignY=50&color=0:0D1117,100:1E90FF&desc=%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlign=50&descAlignY=70&animation=fadeIn"/>
 </div>
 
 <div align="center">  
@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Hello,+World!+I+am+Fady+Adel;Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Hello,+World!+I+am+Fady+Adel;Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Let's+Build+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />  
 </h2>  
 
 <div align="center">  
@@ -20,50 +20,66 @@
 
 - 🌍 **From:** Cairo, Egypt  
 - 🎓 **Student at:** Faculty of Computer Engineering - AASTMT  
-- 💡 Passionate about building intelligent systems that solve real-world problems.
-- 🌱 Currently diving deep into **Machine Learning**, **Deep Learning**, and **LLM Applications**.
-- 🔭 Interested in **Computer Vision**, **NLP**, and **Intelligent Automation**.
+- 💡 Passionate about building intelligent systems and dynamic web applications that solve real-world problems.
+- 🌱 Currently diving deep into **Machine Learning**, **Deep Learning**, **LLM Applications**, and **Full Stack Web Development**.
+- 🔭 Interested in **Computer Vision**, **NLP**, **MERN Stack**, and **Cloud Technologies**.
+- 🚀 I love creating seamless user experiences and robust backends.
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Languages & Core Tools**
+### **Languages**
 <div align="center">  
-  <a href="https://en.cppreference.com/w/c/"> <img src="https://skillicons.dev/icons?i=c"/> </a>
-  <a href="https://en.cppreference.com/w/"> <img src="https://skillicons.dev/icons?i=cpp"/> </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> <img src="https://skillicons.dev/icons?i=cs"/> </a>
-  <a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java"/> </a>
-  <a href="https://dart.dev/"> <img src="https://skillicons.dev/icons?i=dart"/> </a>
   <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python"/> </a>
-  <a href="https://www.linux.org/"> <img src="https://skillicons.dev/icons?i=linux"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=javascript"/> </a>
+  <a href="https://www.typescriptlang.org/"> <img src="https://skillicons.dev/icons?i=typescript"/> </a>
+  <a href="https://www.java.com/"> <img src="https://skillicons.dev/icons?i=java"/> </a>
+  <a href="https://en.cppreference.com/w/"> <img src="https://skillicons.dev/icons?i=cpp"/> </a>
+  <a href="https://dart.dev/"> <img src="https://skillicons.dev/icons?i=dart"/> </a>
+</div>
+
+### **Frontend Development**
+<div align="center">
+  <a href="https://reactjs.org/"> <img src="https://skillicons.dev/icons?i=react"/> </a>
+  <a href="https://nextjs.org/"> <img src="https://skillicons.dev/icons?i=nextjs"/> </a>
+  <a href="https://www.w3.org/html/"> <img src="https://skillicons.dev/icons?i=html"/> </a>
+  <a href="https://www.w3.org/Style/CSS/"> <img src="https://skillicons.dev/icons?i=css"/> </a>
+  <a href="https://tailwindcss.com/"> <img src="https://skillicons.dev/icons?i=tailwind"/> </a>
+  <a href="https://getbootstrap.com/"> <img src="https://skillicons.dev/icons?i=bootstrap"/> </a>
+</div>
+
+### **Backend & Database**
+<div align="center">
+  <a href="https://nodejs.org/"> <img src="https://skillicons.dev/icons?i=nodejs"/> </a>
+  <a href="https://expressjs.com/"> <img src="https://skillicons.dev/icons?i=express"/> </a>
+  <a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb"/> </a>
   <a href="https://www.mysql.com/"> <img src="https://skillicons.dev/icons?i=mysql"/> </a>
   <a href="https://www.postgresql.org/"> <img src="https://skillicons.dev/icons?i=postgres"/> </a>
-  <a href="https://opencv.org/"> <img src="https://skillicons.dev/icons?i=opencv"/> </a>
-  <a href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow"/> </a>
-  <a href="https://ubuntu.com/"> <img src="https://skillicons.dev/icons?i=ubuntu"/> </a>
-</div>  
+  <a href="https://firebase.google.com/"> <img src="https://skillicons.dev/icons?i=firebase"/> </a>
+</div>
 
 ### **AI/ML & Data Science**
 <div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <a href="https://www.tensorflow.org/"> <img src="https://skillicons.dev/icons?i=tensorflow"/> </a>
+  <a href="https://pytorch.org/"> <img src="https://skillicons.dev/icons?i=pytorch"/> </a>
+  <a href="https://opencv.org/"> <img src="https://skillicons.dev/icons?i=opencv"/> </a>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-important?style=for-the-badge&logo=chainlink&logoColor=white" />
 </div>
 
-### **Development Tools**
+### **Tools & Platforms**
 <div align="center">
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40px"></a>  
-  <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40px"></a>  
-  <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px"></a>  
-  <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40px"></a>  
+  <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git"/> </a>
+  <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github"/> </a>
+  <a href="https://www.docker.com/"> <img src="https://skillicons.dev/icons?i=docker"/> </a>
+  <a href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode"/> </a>
+  <a href="https://www.linux.org/"> <img src="https://skillicons.dev/icons?i=linux"/> </a>
+  <a href="https://vercel.com/"> <img src="https://skillicons.dev/icons?i=vercel"/> </a>
 </div>
 
 ---
-
 ## 🎯 Featured Projects
 
 ### 🤖 [GoldenSeatCinema](https://github.com/fadyadell/GoldenSeatCinema)
