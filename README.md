@@ -66,30 +66,36 @@
 
 ## 🎯 Featured Projects
 
-### 🤖 [Dynamic RAG System](https://github.com/YOUR_GITHUB_USERNAME/project-name)
-Advanced Retrieval-Augmented Generation system leveraging LLMs for intelligent information retrieval and response generation.
+### 🤖 [GoldenSeatCinema](https://github.com/fadyadell/GoldenSeatCinema)
+GoldenSeatCinema is a movie ticket booking website that allows users to browse movies, select showtimes, choose seats, and reserve tickets online. Below is a line-by-line style explanation of the idea of the project.
 
-**Tech Stack:** `Python` `LangChain` `Vector Databases` `NLP`
-
----
-
-### 🏠 [Smart Environment Control](https://github.com/YOUR_GITHUB_USERNAME/project-name)
-Intelligent IoT system for automated environment monitoring and control using ML algorithms for predictive optimization.
-
-**Tech Stack:** `Python` `Machine Learning` `IoT` `Automation`
+**Tech Stack:** `React` `Vite` 
 
 ---
 
+### 🏠 [Ride_Share_Application](https://github.com/fadyadell/Ride_Share_Application)
+A web application that connects passengers with nearby drivers, allowing users to request rides, track drivers in real time, calculate fares, and complete trips through an online platform. It provides features such as user registration, ride booking, route selection, fare estimation, driver matching, and trip history management.
+
+**Tech Stack:** `Python` `C,C++` `Dart` `Swift`
+
+---
+
+### 🏠 [TrashFall-Game](https://github.com/fadyadell/TrashFall-Game)
+A 2D interactive game where players control a bin to catch falling trash while avoiding misses, featuring a scoring system, multiple sound effects, animated background elements (trees, buildings, flowers), and increasing difficulty over time.
+
+**Tech Stack:** `Python` 
+
+---
 ## 📬 Connect With Me
 
 <p align="center">  
-  <a href="mailto:your-email@example.com">  
+  <a href="mailto:Fady3718@gmail.com">  
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>  
   </a>  
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">  
+  <a href="https://www.linkedin.com/in/fady-adel-54b218213/">  
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>  
   </a>  
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">  
+  <a href="https://github.com/fadyadell">  
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>  
   </a>  
 </p>  
@@ -100,11 +106,11 @@ Intelligent IoT system for automated environment monitoring and control using ML
 
 <div align="center">
   
-![Fady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
+![Fady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadyadell&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadyadell&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadyadell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 </div>
 
@@ -120,6 +126,6 @@ Intelligent IoT system for automated environment monitoring and control using ML
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-**⭐️ From [Fady Adel](https://github.com/YOUR_GITHUB_USERNAME) | Let's build something amazing together!**
+**⭐️ From [Fady Adel](https://github.com/fadyadell) | Let's build something amazing together!**
 
 </div>
