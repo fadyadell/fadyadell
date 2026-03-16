@@ -80,6 +80,7 @@
 </div>
 
 ---
+
 ## 🎯 Featured Projects
 
 ### 🤖 [GoldenSeatCinema](https://github.com/fadyadell/GoldenSeatCinema)
@@ -89,19 +90,20 @@ GoldenSeatCinema is a movie ticket booking website that allows users to browse m
 
 ---
 
-### 🏠 [Ride_Share_Application](https://github.com/fadyadell/Ride_Share_Application)
+### 🚗 [Ride_Share_Application](https://github.com/fadyadell/Ride_Share_Application)
 A web application that connects passengers with nearby drivers, allowing users to request rides, track drivers in real time, calculate fares, and complete trips through an online platform. It provides features such as user registration, ride booking, route selection, fare estimation, driver matching, and trip history management.
 
 **Tech Stack:** `Python` `C,C++` `Dart` `Swift`
 
 ---
 
-### 🏠 [TrashFall-Game](https://github.com/fadyadell/TrashFall-Game)
+### 🎮 [TrashFall-Game](https://github.com/fadyadell/TrashFall-Game)
 A 2D interactive game where players control a bin to catch falling trash while avoiding misses, featuring a scoring system, multiple sound effects, animated background elements (trees, buildings, flowers), and increasing difficulty over time.
 
 **Tech Stack:** `Python` 
 
 ---
+
 ## 📬 Connect With Me
 
 <p align="center">  
@@ -129,6 +131,11 @@ A 2D interactive game where players control a bin to catch falling trash while a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadyadell&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)
 
 </div>
+
+---
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/fadyadell/fadyadell/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
